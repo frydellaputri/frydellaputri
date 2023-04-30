@@ -1,6 +1,6 @@
 # Frydella Krisna Putri
-
 **`Data Analyst/Data Scientist/Business Analyst`**
+
 ---
 
 Here are some ideas to get you started:
