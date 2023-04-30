@@ -1,7 +1,7 @@
-### Hi there 👋
+# Frydella Krisna Putri
 
-<!--
-**frydellaputri/frydellaputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst/Data Scientist/Business Analyst`**
+---
 
 Here are some ideas to get you started:
 
